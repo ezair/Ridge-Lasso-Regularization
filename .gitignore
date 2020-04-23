@@ -1,0 +1,6 @@
+# Don't need my vscode settings...
+.vscode
+
+# This is always annoying...
+__pycache__
+
