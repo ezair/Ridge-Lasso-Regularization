@@ -1,5 +1,6 @@
 # Don't need my vscode settings...
 .vscode
+.history
 
 # This is always annoying...
 __pycache__
